@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/splash.jpg</file>
+    <file>images/stop.png</file>
+    <file>images/help.png</file>
+    <file>images/moonypic.png</file>
+    <file>images/fmoon.png</file>
+    <file>images/Pen.jpg</file>
+    <file>images/pendrive.jpg</file>
+    <file>images/quit.png</file>
+    <file>images/moon.gif</file>
+    <file>images/start.png</file>
+  </qresource>
+</RCC>

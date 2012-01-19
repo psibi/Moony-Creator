@@ -1,0 +1,15 @@
+Moony Creator
+Version 1.0.0
+Authors: P.Sibi & Rijvana Nasreen
+Email:
+psibi2000@gmail.com
+blacktulip1290@gmail.com
+
+Installation and Usage:
+1)Go to terminal.
+2)cd moony_app (This command may be different for you. Just come into the directory named moony_app)
+3)chmod 700 install.sh
+4)./install.sh
+5)Go to Desktop and access the application
+
+Still lot of changes have to be made and hopefully we will try to elimate bugs and improve the software in the future versions.

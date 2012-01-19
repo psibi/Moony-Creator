@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/usr/lib/kde4/libexec/kdesu $HOME/.moony_app/moony/moony_mainwindow.py
+Name=Moony Creator
+Icon=$HOME/.moony_app/fmoon.png
+
+Icon=/home/meganathan/.moony_app/fmoon.png
